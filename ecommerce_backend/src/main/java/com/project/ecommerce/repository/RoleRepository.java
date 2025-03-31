@@ -1,4 +1,4 @@
-package com.project.ecommerce.repositories;
+package com.project.ecommerce.repository;
 
 import com.project.ecommerce.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;

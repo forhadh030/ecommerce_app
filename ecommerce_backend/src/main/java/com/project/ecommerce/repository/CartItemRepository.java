@@ -1,4 +1,4 @@
-package com.project.ecommerce.repositories;
+package com.project.ecommerce.repository;
 
 import com.project.ecommerce.model.CartItem;
 import com.project.ecommerce.model.Product;
