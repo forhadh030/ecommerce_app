@@ -1,4 +1,4 @@
-package com.project.ecommerce.security;
+package com.project.ecommerce.security.jwt;
 
 import com.project.ecommerce.security.services.UserDetailsImpl;
 import io.jsonwebtoken.*;
